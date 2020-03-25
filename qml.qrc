@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MAME 2003-Plus_Example.xml</file>
+        <file>MAME 2003-Plus_LakkaPlaylist.json</file>
+    </qresource>
+</RCC>
